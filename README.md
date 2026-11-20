@@ -1,2 +1,0 @@
-# history-dash
-history dash
